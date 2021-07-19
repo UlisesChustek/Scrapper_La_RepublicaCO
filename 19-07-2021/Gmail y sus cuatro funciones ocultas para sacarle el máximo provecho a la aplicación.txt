@@ -1,0 +1,13 @@
+Gmail y sus cuatro funciones ocultas para sacarle el máximo provecho a la aplicación
+
+Le enseñaremos a separar en una sola fila todos los mensajes aún no leídos, buscar un correo que contenga un archivo específico 
+
+l, la aplicación estadounidense que permite enviar todo tipo de archivos por correo electrónico, está instalada en el smartphone de muchos que la utilizan a diario; sin embargo, no todos conocen los trucos ocultos que guarda esta app. En esta nota le enseñaremos algunos pasos que le resultarán de mucha utilidad.
+Cuando se está navegando por Internet, sea desde el teléfono celular, tableta, laptop o computadora de escritorio, muchas veces uno se registra en diversas páginas sin darse cuenta. Esto se refleja cuando se ingresa a Gmail y se encuentran varios correos electrónicos poco conocidos como ofertas de trabajo, anuncios de productos, servicios educativos, etc.
+En ese sentido, resulta difícil visualizar un archivo importante que se nos ha enviado y aún no se leyó debido a que se encuentra perdido entre la gran cantidad de correos (Spam) almacenados en la bandeja de entrada. Hay un truco sencillo para poder abrir los mensajes aún no leídos, tan solo se debe colocar en la barra de búsqueda del Gmail la palabra “is:unread”.
+Además, puede personalizar la búsqueda, colocando por ejemplo “is:unread fotos” y le aparecerán todos los correo no leídos que lleven la palabra fotos. Asimismo, hay una opción para visualizar los mensajes más importantes, esto se logra escribiendo “is:important”.
+Existen otros comandos que facilitarán la búsqueda de algún correo electrónico en 
+. Para conocerlos siga los siguientes pasos:
+Para buscar a un emisor o destinatario en específico hay que colocar from: [nombre], to [nombre], cc: [nombre]. Ejemplo: From: María. Para buscar un correo con algún archivo en específico se debe redactar el código Has:attachment (tipo de archivo). Ejemplo: Has:attachment excel.
+Este truco es exclusivo para los smartphone o tabletas, ya que se va a poder leer cualquier correo electrónico sin necesidad de retroceder hasta la bandeja de entrada y abrirlos de a uno. Para lograrlo hay que entrar a un correo y solamente deslizar con el dedo hacia la izquierda o derecha y se irá cambiando de mensaje, sin duda ahorra mucho tiempo.
+Este es un atajo para eliminar varios mensajes sin necesidad de estar abriendo cada correo para borrarlo. Si se encuentra en un dispositivo móvil hay que presionar (no pulsar) el icono circular que se encuentra a la izquierda de cada correo a suprimir. Para los ordenadores hay que presionar un cuadrado que también se encuentra en el extremo izquierdo del correo.

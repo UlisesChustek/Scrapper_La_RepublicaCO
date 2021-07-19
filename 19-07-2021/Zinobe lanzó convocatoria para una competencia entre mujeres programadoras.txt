@@ -1,0 +1,12 @@
+Zinobe lanzó convocatoria para una competencia entre mujeres programadoras
+
+La competencia estará contarán con el apoyo de mentores y jurados expertos de Zinobe, así como de 4 instituciones educativas: la U. del Rosario, la U. Central, la EAN y la U. Sabana
+
+Zinobe, la compañía de oferta de créditos en línea para personas y mipymes, lanzó The Girl Code 2021 para 
+, una iniciativa donde diferentes equipos tendrán tres días para desarrollar un prototipo en Github que responda a uno de los seis retos propuestos por la compañía, en los que las participantes encontrarán alternativas relacionadas con análisis y recolección de datos, verificación de identidad o promoción de pagos electrónicos, entre otros.
+La competencia se desarrollará entre el 23 y el 25 de julio y las participantes contarán con el apoyo de mentores y jurados expertos de Zinobe, así como de 4 instituciones educativas: la U. del Rosario, la U. Central, la EAN y la U. Sabana.
+Las ganadoras recibirán diferentes premios que incluyen dinero en efectivo, sesiones de coaching de carrera con C-levels, acceso a la Cuarta Conferencia Internacional sobre Informática Aplicada (ICAI 2021), becas para participar en los eventos Latincryt y Ascrypto e incluso oportunidades laborales para trabajar directamente en Zinobe como programadoras Python.
+Las inscripciones ya están abiertas y las interesadas pueden conocer todos los detalles de la convocatoria ingresando a 
+. La competencia se desarrollará en equipos de entre 2 y 5 integrantes, pero quienes no tengan equipo pueden inscribirse individualmente y serán conectadas con otras mujeres programadoras para participar.
+En el mundo sólo 35% de los estudiantes de Stem en la educación superior son mujeres y sólo  3% de las mujeres en este nivel eligen estudios de tecnologías de la información y la comunicación, de acuerdo con la Unesco.
+En el mundo del software, la representación femenina no suele superar 10%. “Como una compañía que nació en el ecosistema fintech colombiano, en Zinobe entendemos la importancia de sumar esfuerzos para cerrar la brecha de género en equipos de tecnología y buscamos generar espacios en los que las mujeres se inspiren y visibilicen todo su potencial”, aseguró Tarek el Sherif, CEO de Zinobe.
